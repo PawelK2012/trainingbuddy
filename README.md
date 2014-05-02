@@ -3,7 +3,7 @@ trainingbuddy
 
 #TRAININGBUDDY
 
-#TRAININGBUDDY is a community driven web applications that teach people about body exercises and allow them to create a custom training routine. #TRAININGBUDDY  is also a place, where users may may post their opinion about other user training routine and other aspects of body training. 
+TRAININGBUDDY is a community driven web applications that teach people about body exercises and allow them to create a custom training routine. #TRAININGBUDDY  is also a place, where users may may post their opinion about other user training routine and other aspects of body training. 
 
 The business logic of a #TRAININGBUDDY was developed in Java and MySql RDMS. This allows an admin of the page to create and update content of the web page dynamically. From the level of administration panel site admin is able to create new users and exercises with training videos, images and text content.  This makes administration of the application extremely easy and user friendly.
 A community aspect of my project was also developed with Java and a comment system provided by Disqus API. Other User Experience such as profile page and community page where public training plans of other users are available to view, was developed based on Html5, Css3 and JavaSript. 
