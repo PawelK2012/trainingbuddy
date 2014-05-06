@@ -1,7 +1,8 @@
 trainingbuddy
 =============
 
-#TRAININGBUDDY
+#TRAININGBUDDY http://www.pawelkaim.com/pawelkaimMM4/ 
+
 
 TRAININGBUDDY is a community driven web application that teach people about body exercises and allow them to create a custom training routine. #TRAININGBUDDY  is also a place, where users may may post their opinion about other user training routine and other aspects of body training. 
 
