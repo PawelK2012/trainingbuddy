@@ -13,13 +13,22 @@ What distinguishes my project from other competitors is a modern and interactive
 What users can do with #TRAININGBUDDY?
 
 •	Create a profile 
+
 •	Log-in 
+
 •	Create a custom training routine  
+
 •	Share training plan on public board (public plan)
+
 •	Create a private training plan 
+
 •	Print training routine
+
 •	Comment on other people plan 
+
 •	Browse #TRAININGPEDIA 
+
 •	Watch training videos 
+
 •	The administrator can create new users and exercises. 
 
