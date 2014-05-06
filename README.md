@@ -32,3 +32,6 @@ What users can do with #TRAININGBUDDY?
 
 •	The administrator can create new users and exercises. 
 
+•	CRUD users, training plans & exercises from administrator level 
+ 
+
