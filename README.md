@@ -30,7 +30,7 @@ What users can do with #TRAININGBUDDY?
 
 •	Watch training videos 
 
-•	The administrator can create new users and exercises. 
+•	Administrator panel
 
 •	CRUD users, training plans & exercises from administrator level 
  
